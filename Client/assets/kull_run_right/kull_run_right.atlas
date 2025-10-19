@@ -1,0 +1,48 @@
+
+kull_run_right.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+kull_Run_4
+  rotate: false
+  xy: 7, 2
+  size: 21, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+kull_Run_1
+  rotate: false
+  xy: 41, 2
+  size: 21, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+kull_Run_6
+  rotate: false
+  xy: 75, 2
+  size: 21, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+kull_Run_3
+  rotate: false
+  xy: 109, 2
+  size: 21, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+kull_Run_5
+  rotate: false
+  xy: 143, 2
+  size: 21, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+kull_Run_2
+  rotate: false
+  xy: 177, 2
+  size: 21, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
